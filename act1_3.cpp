@@ -29,7 +29,7 @@ int main(){
         break;
 
     case 2:
-        run(registros);
+        main(registros);
         break;
     
     default:
