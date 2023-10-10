@@ -153,7 +153,7 @@ string IP(const vector<Bitacora>& registros, int numero) {
 int numero;
 
 
-int run(const vector<Bitacora>& registros) {
+int main(const vector<Bitacora>& registros) {
     ConexionesComputadora<string> conexiones;
 
     cout << "Ingresa un número entre 1 y 150: ";
